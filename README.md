@@ -18,7 +18,7 @@ My first Java project. Realised without OOP. Only with Arrays.
 ***
 ⚽️⚽️⚽️ **Soccer OOP** https://github.com/Amaranthin/SoccerOOP 
 ***
-My first OOP project. (2 Teams. Coaches buy from 100 random players. Play game)
+My first OOP project. (2 Teams. Coaches can choose from 100 random players. Play game)
 
 ![SoccerTeams](https://raw.githubusercontent.com/Amaranthin/SoccerOOP/master/ScreenShoots/Match01_Teams.PNG)
 ![SoccerSquad](https://raw.githubusercontent.com/Amaranthin/SoccerOOP/master/ScreenShoots/squad_example.PNG)
