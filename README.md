@@ -11,14 +11,14 @@
 💎💎💎 **Monopoly 2D** 💎💎💎 https://github.com/Amaranthin/Monopoly
 ***
 
-My first Java project. Realised without OOP. Only with Arrays. [👉 More Screenshots](https://github.com/Amaranthin/Monopoly/tree/master/Test_ScreenShoots "More Screenshots")
+- My first Java project. Realised without OOP. Only with Arrays. [👉 More Screenshots](https://github.com/Amaranthin/Monopoly/tree/master/Test_ScreenShoots "More Screenshots")
 
 ![MonopolyWinnWhenBuy9](https://katev.eu/images/WinnerWhenBuy9.png)
 
 ***
 💎💎💎 **Soccer OOP** 💎💎💎 https://github.com/Amaranthin/SoccerOOP 
 ***
-My first OOP project. (2 Teams. Coaches can choose from 100 random players. Play game)  [👉 More screenshots](https://github.com/Amaranthin/SoccerOOP/tree/master/ScreenShoots "More Screenshots")
+- My first OOP project. (2 Teams. Coaches can choose from 100 random players. Play game)  [👉 More screenshots](https://github.com/Amaranthin/SoccerOOP/tree/master/ScreenShoots "More Screenshots")
 
 ![SoccerSquad](https://raw.githubusercontent.com/Amaranthin/SoccerOOP/master/ScreenShoots/squad_example.PNG)
 
