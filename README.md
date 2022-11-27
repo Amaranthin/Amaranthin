@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amaranthin
-- 👀 I’m interested in programing, universe, AI, music, tennis, table tennis, chess, soccer.
+- 👀 I’m interested in programming, universe, AI, music, tennis, table tennis, chess, soccer.
 - 🌱 I’m currently learning java, C#
 - 💞️ I’m looking to collaborate on ... asian girls :D (joke)
 - 📫 How to reach me ... https://www.facebook.com/Amaranthin/
