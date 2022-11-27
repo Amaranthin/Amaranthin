@@ -11,7 +11,7 @@
 💎💎💎 **Monopoly 2D** https://github.com/Amaranthin/Monopoly
 ***
 
-My first Java project. Realised without OOP. Only with Arrays.
+My first Java project. Realised without OOP. Only with Arrays. [More Screenshots](https://github.com/Amaranthin/Monopoly/tree/master/Test_ScreenShoots ">>>More Screenshots<<<")
 
 ![MonopolyWinnWhenBuy9](https://katev.eu/images/WinnerWhenBuy9.png)
 
