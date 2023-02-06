@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amaranthin
 - 👀 I’m interested in programming, universe, AI, music, tennis, table tennis, chess and soccer.
-- 🌱 I’m currently learning java, C#
+- 🌱 I’m currently learning C#, Java, JavaScript, PHP, MySQL
 - 💞️ I’m looking to collaborate on ... asian girls :D (joke)
 - 📫 How to reach me ... https://www.facebook.com/Amaranthin/
 
